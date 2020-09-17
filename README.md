@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-    <header>
+    <head>
         <meta charset="utf-8" />
         <title>better motherfucking website</title>
-    </header>
+    </head>
     <body>
         <body><header><h1>This is <em>still</em> a motherfucking website.</h1>
         <aside>And it's more fucking perfect than the last guy's.</aside></header>
